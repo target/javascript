@@ -1,7 +1,8 @@
-# Airbnb JavaScript Style Guide() {
+# Target JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
+Forked from [AirBNB's style guide](https://github.com/target/javascript)
 
 ## Table of Contents
 
@@ -1520,6 +1521,7 @@
   - **Ripple**: [ripple/javascript-style-guide](https://github.com/ripple/javascript-style-guide)
   - **SeekingAlpha**: [seekingalpha/javascript-style-guide](https://github.com/seekingalpha/javascript-style-guide)
   - **Shutterfly**: [shutterfly/javascript](https://github.com/shutterfly/javascript)
+  - **Target**: [target/javascript](https://github.com/target/javascript)
   - **TheLadders**: [TheLadders/javascript](https://github.com/TheLadders/javascript)
   - **Userify**: [userify/javascript](https://github.com/userify/javascript)
   - **VoxFeed**: [VoxFeed/javascript-style-guide](https://github.com/VoxFeed/javascript-style-guide)
