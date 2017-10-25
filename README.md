@@ -716,7 +716,7 @@ Forked from [AirBNB's style guide](https://github.com/target/javascript)
 
       return this;
     }
-  ```
+    ```
 
 **[⬆ back to top](#table-of-contents)**
 
